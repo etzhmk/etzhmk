@@ -5,6 +5,8 @@
     🚀 Aspiring developer building web interfaces  </br>
     🎨 Passionate about visual design & UI/UX thinking </br>
     🎲 Playing TTRPG's </br>
+  </br>
+    🔭 I’m currently working on <a href="https://github.com/etzhmk/StruktCSS">StruktCSS</a>
   </em>
   </br>
   </br>
@@ -15,7 +17,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etzhmk&layout=compact&theme=catppuccin_mocha)
 </p>
+
 
 <!--
 **etzhmk/etzhmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
